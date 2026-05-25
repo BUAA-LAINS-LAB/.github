@@ -1,5 +1,5 @@
 ## Hi there 👋
-SIC Lab, School of Cyber Science and Technology, Beihang University
+Low-Altitude Intelligent Network Security Laboratory(LAINS Lab), School of Cyber Science and Technology, Beihang University
 <!--
 
 **Here are some ideas to get you started:**
